@@ -1,0 +1,8 @@
+•	git repo: https://github.com/Iulik1989/lesson17
+•	Creati un closure in care sa aveti urmatoarele metode.
+    1.returnarea unui array de cifre ex [1,2,3,4,5,6]
+    2.returnarea unui array cu doar cifrele pare
+    3.returnarea unui arrau cu doar cifre impare
+    4.returnarea sumei cifrelor din array( for loop va poate ajuta)
+    5. adaugarea in array a unei cifre noi
+•   Folositi metodele din closure in afara la closure si atribuitile fiecare unei constante aparte.
